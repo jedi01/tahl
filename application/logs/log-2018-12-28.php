@@ -1,0 +1,9 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2018-12-28 16:26:27 --> Query error: Column 'ip_address' cannot be null - Invalid query: INSERT INTO `sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('3ac3d3b15a4d7a52a86bd8ed23d466c322458ba8', NULL, 1546014387, '__ci_last_regenerate|i:1546014387;')
+ERROR - 2018-12-28 16:26:31 --> Query error: Column 'ip_address' cannot be null - Invalid query: INSERT INTO `sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('3ac3d3b15a4d7a52a86bd8ed23d466c322458ba8', NULL, 1546014391, '__ci_last_regenerate|i:1546014391;')
+ERROR - 2018-12-28 16:26:35 --> Query error: Column 'ip_address' cannot be null - Invalid query: INSERT INTO `sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('3ac3d3b15a4d7a52a86bd8ed23d466c322458ba8', NULL, 1546014395, '__ci_last_regenerate|i:1546014395;')
+ERROR - 2018-12-28 16:26:43 --> Query error: Column 'ip_address' cannot be null - Invalid query: INSERT INTO `sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('3ac3d3b15a4d7a52a86bd8ed23d466c322458ba8', NULL, 1546014403, '__ci_last_regenerate|i:1546014403;')
+ERROR - 2018-12-28 16:26:44 --> Query error: Column 'ip_address' cannot be null - Invalid query: INSERT INTO `sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('3ac3d3b15a4d7a52a86bd8ed23d466c322458ba8', NULL, 1546014404, '__ci_last_regenerate|i:1546014404;')
+ERROR - 2018-12-28 17:09:42 --> Query error: Column 'ip_address' cannot be null - Invalid query: INSERT INTO `sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('adc9acda68a455a1fd512391ee84aa03a81db77f', NULL, 1546016982, '__ci_last_regenerate|i:1546016982;')
+ERROR - 2018-12-28 18:32:14 --> Query error: Column 'ip_address' cannot be null - Invalid query: INSERT INTO `sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES ('825b6ca9ba029cca61508ece7d332703359b6a3f', NULL, 1546021934, '__ci_last_regenerate|i:1546021934;')
